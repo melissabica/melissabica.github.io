@@ -4,4 +4,4 @@ title: CV
 permalink: /cv/
 ---
 
-[Melissa Bica's CV](/assets/MelissaBicaCV.pdf)
+[Melissa Bica's CV](/assets/files/MelissaBicaCV.pdf)
