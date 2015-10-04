@@ -3,3 +3,9 @@
 	margin-left: 20px; 
 	margin-bottom: 20px;
 }
+
+.border {
+    background-image: url("../assets/border2.jpg");
+    background-repeat: repeat-x;
+    height: 100px;
+}
