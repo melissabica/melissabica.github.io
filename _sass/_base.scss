@@ -89,11 +89,11 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: $brand-color;
+    color: $light-salmon-color;
     text-decoration: none;
 
     &:visited {
-        color: darken($brand-color, 15%);
+        color: darken($light-salmon-color, 15%);
     }
 
     &:hover {
@@ -193,12 +193,13 @@ pre {
 
     > svg {
         display: inline-block;
-        width: 16px;
-        height: 16px;
+        width: 30px;
+        height: 30px;
         vertical-align: middle;
 
         path {
-            fill: $grey-color;
+            //fill: $grey-color;
+            fill: $dark-green-grey-color;
         }
     }
 }

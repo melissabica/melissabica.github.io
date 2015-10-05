@@ -21,7 +21,13 @@ $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
-$purple-color:		#bbcc95;
+// Custom colors to match top panel
+$light-green1-color:	#BBCC95;
+$light-green2-color:	#aac18d;
+$dark-green-grey-color:	#8b8c64;
+$dark-tan-grey-color:	#816e44;
+$light-salmon-color:	#e49767;
+$bright-orange-color:	#e0773d;
 
 // Width of the content area
 $content-width:    800px;
