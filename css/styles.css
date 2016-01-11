@@ -4,8 +4,17 @@
 	margin-bottom: 20px;
 }
 
+/*Top page border*/
 .border {
     background-image: url("../assets/border2.jpg");
     background-repeat: repeat-x;
     height: 100px;
+}
+
+a.social-media {
+	margin: 5px;
+}
+
+a.social-media:hover {
+	text-decoration: none;
 }
