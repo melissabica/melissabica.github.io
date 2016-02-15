@@ -30,7 +30,7 @@ This was a team project for the User-Centered Design class. I came up with this 
 **Abstract:** Tools exist to enable users to filter and visualize their data based on queries; however, these queries often use unfamiliar and unnatural language, making it difficult to see the relation between the query and the resulting visualization. We have designed a tool in which a user can choose from a bank of natural language keywords, which includes data-specific words as well as words used for grammatical correctness, to build a natural language research question or query and be presented with data visualizations that aim to answer the query. We followed a user-centered design process, iterating upon our design based on results from thinking aloud user testing. In this paper, we present relevant work which motivated the project, key requirements and challenges, and our evaluation of how our final design addressed the challenges found via user testing.
 
 
-##Undergraduate
+## Undergraduate
 
 ### SMS-Based Training System for Global Social Enterprises
 <!-- <img src="/assets/texttolearn.png" class="image-right" align="right"/> -->
