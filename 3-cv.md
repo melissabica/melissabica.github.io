@@ -6,4 +6,4 @@ permalink: /cv/
 
 [Melissa Bica's CV](/assets/files/MelissaBicaCV.pdf)
 
-<p style="font-size: 0.8em;">Updated February 10, 2016</p>
+<p style="font-size: 0.8em;">Updated June 8, 2016</p>
