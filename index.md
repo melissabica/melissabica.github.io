@@ -14,6 +14,8 @@ Previously, I graduated with a B.S. in Computer Science and Engineering from [Sa
 
 
 ### Recent News
+* I received a NSF Graduate Research Fellowship starting in Fall 2016.
+
 * I was interviewed for my alma mater's weekly newspaper, *The Santa Clara*: [Graduate Makes Waves in Data Mining](http://thesantaclara.org/graduate-makes-waves-in-data-mining/)
 
 * While attending SC15 in Austin, I was interviewed for *Science Node*, an online science publication: [Mining Social Media to Manage Crises](https://sciencenode.org/feature/mining-social-media-to-manage-crises.php)

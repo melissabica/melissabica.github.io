@@ -6,9 +6,11 @@
 
 /*Top page border*/
 .border {
-    background-image: url("../assets/border2.jpg");
-    background-repeat: repeat-x;
-    height: 100px;
+    /*background-image: url("../assets/border.jpg");*/
+    background-image: url("../assets/border5.png");
+    /*background-repeat: repeat-x;*/
+    background-size: 100%;
+    height: 80px;
 }
 
 a.social-media {
