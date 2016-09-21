@@ -14,6 +14,8 @@ Previously, I graduated with a B.S. in Computer Science and Engineering from [Sa
 
 
 ### Recent News
+* My paper **Visual Representations of Disaster**, cowritten with Leysia Palen and Chris Bopp, was accepted to [CSCW 2017](https://cscw.acm.org/2017/).
+
 * I received a NSF Graduate Research Fellowship for my research proposal: "Image-Based Social Media Communication in Disaster Events."
 
 * I was interviewed for my alma mater's weekly newspaper, *The Santa Clara*: [Graduate Makes Waves in Data Mining](http://thesantaclara.org/graduate-makes-waves-in-data-mining/)
