@@ -11,7 +11,7 @@ permalink: /cv/
 
 
 
-##Education  
+## Education  
 <p class="alignright">2014 - present</p>
 **University of Colorado Boulder**  Ph.D., Computer Science, third year student  
 
@@ -29,7 +29,7 @@ permalink: /cv/
 
 
 
-##Publications
+## Publications
 
 <p class="hangingindent">Melissa Bica, Leysia Palen, and Chris Bopp. (2017). Visual Representations of Disaster. <span class="proceedings">Proceedings of the 20th ACM Conference on Computer Supported Cooperative Work and Social Computing </span>(CSCW ‘17).</p>
 
@@ -39,7 +39,7 @@ permalink: /cv/
 
 
 
-##Posters & Workshop Papers
+## Posters & Workshop Papers
 
 <p class="hangingindent">Melissa Bica and Jennings Anderson. (2016). “You Are What You Tweet!” The Ethics of (Re) Publishing Public Data as Crafted Narratives. Workshop on Ethical Encounters in HCI Research at the ACM Conference on Human Factors in Computing Systems (CHI ‘16). [Workshop Paper]</p>
 
@@ -47,7 +47,7 @@ permalink: /cv/
 
 
 
-##Teaching Experience
+## Teaching Experience
 **University of Colorado Boulder**
 
 <p class="alignright">October 2015</p>
@@ -55,7 +55,9 @@ Guest Lecturer for CSCI4830: HCC Big Data Computing
 <p class="alignright">August 2014 – May 2015</p>  
 Teaching Assistant for CSCI1300: Introduction to Programming
 
-##Other Experience
+
+
+## Other Experience
 <p class="alignright">June – July 2015 </p>
 **National Institute of Advanced Industrial Science and Technology**  
 OSDC PIRE Fellow
@@ -78,7 +80,7 @@ Interim Engineering Intern
 
 
 
-##Skills
+## Skills
 **Programming Languages & Tools**  
 
 * Python, HTML/CSS/JS, R, MATLAB, MongoDB, Jupyter Notebook, Tableau, QGIS
@@ -90,7 +92,7 @@ Interim Engineering Intern
 
 
 
-##Awards
+## Awards
 <p class="alignright">June 2016</p>
 National Science Foundation Graduate Research Fellowship
 <p class="alignright">April 2015</p>
@@ -122,7 +124,7 @@ Richard Tapia Celebration of Diversity in Computing Scholarship
 
 
 
-##Service
+## Service
 
 **Reviewer**  
 
@@ -134,6 +136,6 @@ Richard Tapia Celebration of Diversity in Computing Scholarship
 
 
 
-##Professional Membership
+## Professional Membership
 ACM, ACM-W, ACM Special Interest Group Computer-Human Interaction (SIGCHI), Colorado Virtual Operations Support Team (COVOST)
 
