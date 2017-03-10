@@ -22,3 +22,20 @@ a.social-media {
 a.social-media:hover {
 	text-decoration: none;
 }
+
+.hangingindent {
+  padding-left: 22px ;
+  text-indent: -22px ;
+}
+
+.alignleft {
+	float: left;
+}
+.alignright {
+	float: right;
+}
+
+.proceedings {
+	font-style:italic;
+}
+
