@@ -31,19 +31,19 @@ permalink: /cv/
 
 ## Publications
 
-<p class="hangingindent">Melissa Bica, Leysia Palen, and Chris Bopp. (2017). Visual Representations of Disaster. <span class="proceedings">Proceedings of the 20th ACM Conference on Computer Supported Cooperative Work and Social Computing </span>(CSCW ‘17).</p>
+<p class="hangingindent">Melissa Bica, Leysia Palen, and Chris Bopp. (2017). <a href="http://dl.acm.org/authorize?N21352" target="_blank" class="papertitle">Visual Representations of Disaster</a>. <span class="proceedings">Proceedings of the 20th ACM Conference on Computer Supported Cooperative Work and Social Computing </span>(CSCW ‘17).</p>
 
-<p class="hangingindent">Jennings Anderson, Marina Kogan, Melissa Bica, Leysia Palen, Kenneth M. Anderson, Kevin Stowe, Rebecca Morss, Julie Demuth, Heather Lazrus, Olga Wilhelmi, and Jen Henderson. (2016). Far Far Away in Far Rockaway: Responses to Risks and Impacts during Hurricane Sandy through First-Person Social Media Narratives. <span class="proceedings">Proceedings of the 13th International Conference on Information Systems for Crisis Response and Management </span>(ISCRAM ‘16).</p>
+<p class="hangingindent">Jennings Anderson, Marina Kogan, Melissa Bica, Leysia Palen, Kenneth M. Anderson, Kevin Stowe, Rebecca Morss, Julie Demuth, Heather Lazrus, Olga Wilhelmi, and Jen Henderson. (2016). <a href="http://idl.iscram.org/files/jenningsanderson/2016/1388_JenningsAnderson_etal2016.pdf" target="_blank" class="papertitle"> Far Far Away in Far Rockaway: Responses to Risks and Impacts during Hurricane Sandy through First-Person Social Media Narratives</a>. <span class="proceedings">Proceedings of the 13th International Conference on Information Systems for Crisis Response and Management </span>(ISCRAM ‘16).</p>
 
-<p class="hangingindent">Kyoung-Sook Kim, Melissa Bica, Isao Kojima, and Hirotaka Ogawa. (2015). RendezView: Look at Meanings of an Encounter Region over Local Social Flocks. <span class="proceedings">Proceedings of the 6th ACM SIGSPATIAL International Workshop on GeoStreaming.</span></p>
+<p class="hangingindent">Kyoung-Sook Kim, Melissa Bica, Isao Kojima, and Hirotaka Ogawa. (2015). <a href="http://dl.acm.org/authorize?N12889" target="_blank" class="papertitle">RendezView: Look at Meanings of an Encounter Region over Local Social Flocks</a>. <span class="proceedings">Proceedings of the 6th ACM SIGSPATIAL International Workshop on GeoStreaming.</span></p>
 
 
 
 ## Posters & Workshop Papers
 
-<p class="hangingindent">Melissa Bica and Jennings Anderson. (2016). “You Are What You Tweet!” The Ethics of (Re) Publishing Public Data as Crafted Narratives. Workshop on Ethical Encounters in HCI Research at the ACM Conference on Human Factors in Computing Systems (CHI ‘16). [Workshop Paper]</p>
+<p class="hangingindent">Melissa Bica and Jennings Anderson. (2016). <a href="https://ethicalencountershci.files.wordpress.com/2016/03/bica-and-anderson.pdf" target="_blank" class="papertitle">You Are What You Tweet!” The Ethics of (Re) Publishing Public Data as Crafted Narratives</a>. Workshop on Ethical Encounters in HCI Research at the ACM Conference on Human Factors in Computing Systems (CHI ‘16). [Workshop Paper]</p>
 
-<p class="hangingindent">Melissa Bica and Kyoung-Sook Kim. (2015). RendezView: An Interactive Visual Mining Tool for Discerning Flock Relationships in Social Media Data. International Conference for High Performance Computing, Networking, Storage and Analysis (SC ‘15). [Poster]</p>
+<p class="hangingindent">Melissa Bica and Kyoung-Sook Kim. (2015). <a href="http://sc15.supercomputing.org/sites/all/themes/SC15images/tech_poster/tech_poster_pages/post148.html" target="_blank" class="papertitle"> RendezView: An Interactive Visual Mining Tool for Discerning Flock Relationships in Social Media Data</a>. International Conference for High Performance Computing, Networking, Storage and Analysis (SC ‘15). [Poster]</p>
 
 
 
