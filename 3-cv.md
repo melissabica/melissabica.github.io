@@ -134,6 +134,10 @@ Richard Tapia Celebration of Diversity in Computing Scholarship
 
 * Discovery Learning Apprenticeship, mentored 8 undergraduate researchers, Spring 2016
 
+**Student Volunteer**
+
+* CHI 2017, CHI 2016, SC 2015
+
 
 
 ## Professional Membership
