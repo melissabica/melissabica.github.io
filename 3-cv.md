@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 
 <div><a href="/assets/files/MelissaBicaCV.pdf" target="_blank" style="display:inline;">Melissa Bica's CV - PDF</a>
-<p style="font-size: 0.8em;display:inline;">(Updated March 6, 2017)</p>
+<p style="font-size: 0.8em;display:inline;">(Updated September 6, 2017)</p>
 </div>
 <br>
 
@@ -15,8 +15,8 @@ permalink: /cv/
 <p class="alignright">2014 - present</p>
 **University of Colorado Boulder**  Ph.D., Computer Science, third year student  
 
+* Advisor: Leysia Palen
 * NSF Graduate Research Fellowship
-* Advised by Leysia Palen
 * Research interests: human-centered computing, social computing, crisis informatics
 
 <p class="alignright">2010 - 2014</p>
@@ -25,7 +25,7 @@ permalink: /cv/
 * Graduated *cum laude*
 
 <p class="alignright">Fall 2012</p>
-**University of Edinburgh** Study abroad, School of Informatics
+**University of Edinburgh**, Scotland, Study abroad, School of Informatics
 
 
 
@@ -58,21 +58,25 @@ Teaching Assistant for CSCI1300: Introduction to Programming
 
 
 ## Other Experience
-<p class="alignright">June – July 2015 </p>
-**National Institute of Advanced Industrial Science and Technology**  
+<p class="alignright">Summer 2017</p>
+**Microsoft Research**, Redmond, WA, USA  
+Research Intern, Business AI Design & Ethics group
+
+<p class="alignright">Summer 2015 </p>
+**National Institute of Advanced Industrial Science and Technology**, Tsukuba, Japan
 OSDC PIRE Fellow
 
 * Implemented an interactive data visualization interface in JavaScript, HTML, and CSS, called RendezView, for structuring geo-referenced social media data.
 
 <p class="alignright">February – December 2013</p>
-**Center for Science, Technology, & Society (Santa Clara University)**  
+**Santa Clara University Center for Science, Technology, & Society and Anudip**, Kolkata, India
 Global Social Benefit Fellow
 
 * Conducted research for social enterprises Anudip and iMerit as part of this 9 month, academic action research fellowship including seven weeks of field work in Kolkata, India.
 * Developed curriculum and instructed women in HTML/CSS in a semi-rural iMerit center in Metiabruz.
 
-<p class="alignright">June – August 2012</p>
-**Qualcomm Incorporated**  
+<p class="alignright">Summer 2012</p>
+**Qualcomm Incorporated**, San Diego, CA, USA
 Interim Engineering Intern
 
 * Developed automated Android system and graphics performance benchmark tests in Perl and Java.
