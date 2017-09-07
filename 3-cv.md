@@ -13,7 +13,7 @@ permalink: /cv/
 
 ## Education  
 <p class="alignright">2014 - present</p>
-**University of Colorado Boulder**  Ph.D., Computer Science, third year student  
+**University of Colorado Boulder**  Ph.D., Computer Science
 
 * Advisor: Leysia Palen
 * NSF Graduate Research Fellowship
@@ -50,9 +50,9 @@ permalink: /cv/
 ## Teaching Experience
 **University of Colorado Boulder**
 
-<p class="alignright">October 2015</p>
+<p class="alignright">Oct. 2015</p>
 Guest Lecturer for CSCI4830: HCC Big Data Computing  
-<p class="alignright">August 2014 – May 2015</p>  
+<p class="alignright">Aug. 2014 – May 2015</p>  
 Teaching Assistant for CSCI1300: Introduction to Programming
 
 
@@ -68,7 +68,7 @@ OSDC PIRE Fellow
 
 * Implemented an interactive data visualization interface in JavaScript, HTML, and CSS, called RendezView, for structuring geo-referenced social media data.
 
-<p class="alignright">February – December 2013</p>
+<p class="alignright">Feb. – Dec. 2013</p>
 **Santa Clara University Center for Science, Technology, & Society and Anudip**, Kolkata, India
 Global Social Benefit Fellow
 
@@ -99,9 +99,9 @@ Interim Engineering Intern
 ## Awards
 <p class="alignright">June 2016</p>
 National Science Foundation Graduate Research Fellowship
-<p class="alignright">April 2015</p>
+<p class="alignright">Apr. 2015</p>
 Open Science Data Cloud Partnerships for International Research and Education (PIRE) Fellowship
-<p class="alignright">October 2014</p>
+<p class="alignright">Oct. 2014</p>
 Graduate Student Research Community Development Award
 <p class="alignright">AY 2014 – 2015</p>
 Dean’s Fellowship (CU Boulder)
@@ -109,21 +109,21 @@ Dean’s Fellowship (CU Boulder)
 Dean’s List (Santa Clara University)
 <p class="alignright">May 2014</p>
 Senior Design Presentation Session Award (Santa Clara University)
-<p class="alignright">April 2014</p>
+<p class="alignright">Apr. 2014</p>
 IEEE Women in Engineering International Leadership Conference Scholarship
-<p class="alignright">April 2014</p>
+<p class="alignright">Apr. 2014</p>
 Upsilon Pi Epsilon Computing and Information Honor Society
-<p class="alignright">November 2013</p>
+<p class="alignright">Nov. 2013</p>
 Willem P. Roelandts and Maria Constantino-Roelandts Grant
-<p class="alignright">October 2013</p>
+<p class="alignright">Oct. 2013</p>
 Tau Beta Pi Engineering Honor Society
 <p class="alignright">July 2013</p>
 Grace Hopper Celebration of Women in Computing Scholarship
-<p class="alignright">February 2013</p>
+<p class="alignright">Feb. 2013</p>
 Global Social Benefit Fellowship
 <p class="alignright">May 2012</p>
 Cisco-SCU Engineering Fellowship
-<p class="alignright">April 2011</p>
+<p class="alignright">Apr. 2011</p>
 Richard Tapia Celebration of Diversity in Computing Scholarship
 
 
