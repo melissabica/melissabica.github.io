@@ -60,16 +60,19 @@ Teaching Assistant for CSCI1300: Introduction to Programming
 ## Other Experience
 <p class="alignright">Summer 2017</p>
 **Microsoft Research**, Redmond, WA, USA  
+
 Research Intern, Business AI Design & Ethics group
 
 <p class="alignright">Summer 2015 </p>
 **National Institute of Advanced Industrial Science and Technology**, Tsukuba, Japan
+
 OSDC PIRE Fellow
 
 * Implemented an interactive data visualization interface in JavaScript, HTML, and CSS, called RendezView, for structuring geo-referenced social media data.
 
 <p class="alignright">Feb. – Dec. 2013</p>
 **Santa Clara University Center for Science, Technology, & Society and Anudip**, Kolkata, India
+
 Global Social Benefit Fellow
 
 * Conducted research for social enterprises Anudip and iMerit as part of this 9 month, academic action research fellowship including seven weeks of field work in Kolkata, India.
@@ -77,6 +80,7 @@ Global Social Benefit Fellow
 
 <p class="alignright">Summer 2012</p>
 **Qualcomm Incorporated**, San Diego, CA, USA
+
 Interim Engineering Intern
 
 * Developed automated Android system and graphics performance benchmark tests in Perl and Java.
