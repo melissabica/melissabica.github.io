@@ -50,3 +50,11 @@ a.social-media:hover {
 a.papertitle{
 	font-weight:400;
 }
+
+.nospace{
+    margin-bottom:0px;
+}
+
+.bold{
+    font-weight:bold;
+}
