@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 
 <div><a href="/assets/files/MelissaBicaCV.pdf" target="_blank" style="display:inline;">Melissa Bica's CV - PDF</a>
-<p style="font-size: 0.8em;display:inline;">(Updated September 6, 2017)</p>
+<p style="font-size: 0.8em;display:inline;">(Updated October 3, 2017)</p>
 </div>
 <br>
 
@@ -30,6 +30,8 @@ permalink: /cv/
 
 
 ## Publications
+
+<p class="hangingindent">Rebecca E. Morss, Julie L. Demuth, Heather Lazrus, Leysia Palen, C. Michael Barton, Christopher A. Davis, Chris Snyder, Olga V. Wilhelmi, Kenneth M. Anderson, David A. Ahijevych, Jennings Anderson, Melissa Bica, Kathryn R. Fossell, Jennifer Henderson, Marina Kogan, Kevin Stowe, and Joshua Watts. (2017). <a href="http://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-16-0058.1" target="_blank" class="papertitle">Hazardous Weather Prediction and Communication in the Modern Information Environment.</a> <span class="proceedings">Bulletin of the American Meteorological Society.</span></p>
 
 <p class="hangingindent">Melissa Bica, Leysia Palen, and Chris Bopp. (2017). <a href="http://dl.acm.org/authorize?N21352" target="_blank" class="papertitle">Visual Representations of Disaster</a>. <span class="proceedings">Proceedings of the 20th ACM Conference on Computer Supported Cooperative Work and Social Computing </span>(CSCW ‘17).</p>
 
