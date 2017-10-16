@@ -134,11 +134,12 @@ Richard Tapia Celebration of Diversity in Computing Scholarship
 
 **Reviewer**  
 
-* ISCRAM 2017, CSCW 2017, CHI 2017
+* 2018: CHI
+* 2017: ISCRAM; CSCW; CHI; Weather, Climate and Society
 
 **Mentor**
 
-* Discovery Learning Apprenticeship, mentored 8 undergraduate researchers, Spring 2016
+* 2016: Discovery Learning Apprenticeship, mentored 8 undergraduate researchers
 
 **Student Volunteer**
 
