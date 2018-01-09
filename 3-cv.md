@@ -43,7 +43,7 @@ permalink: /cv/
 
 ## Posters & Workshop Papers
 
-<p class="hangingindent">Melissa Bica and Jennings Anderson. (2016). <a href="https://ethicalencountershci.files.wordpress.com/2016/03/bica-and-anderson.pdf" target="_blank" class="papertitle">You Are What You Tweet!” The Ethics of (Re) Publishing Public Data as Crafted Narratives</a>. Workshop on Ethical Encounters in HCI Research at the ACM Conference on Human Factors in Computing Systems (CHI ‘16). [Workshop Paper]</p>
+<p class="hangingindent">Melissa Bica and Jennings Anderson. (2016). <a href="https://ethicalencountershci.files.wordpress.com/2016/03/bica-and-anderson.pdf" target="_blank" class="papertitle">“You Are What You Tweet!” The Ethics of (Re) Publishing Public Data as Crafted Narratives</a>. Workshop on Ethical Encounters in HCI Research at the ACM Conference on Human Factors in Computing Systems (CHI ‘16). [Workshop Paper]</p>
 
 <p class="hangingindent">Melissa Bica and Kyoung-Sook Kim. (2015). <a href="http://sc15.supercomputing.org/sites/all/themes/SC15images/tech_poster/tech_poster_pages/post148.html" target="_blank" class="papertitle"> RendezView: An Interactive Visual Mining Tool for Discerning Flock Relationships in Social Media Data</a>. International Conference for High Performance Computing, Networking, Storage and Analysis (SC ‘15). [Poster]</p>
 
