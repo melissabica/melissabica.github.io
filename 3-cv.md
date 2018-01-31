@@ -19,6 +19,9 @@ permalink: /cv/
 * NSF Graduate Research Fellowship
 * Research interests: human-centered computing, social computing, crisis informatics
 
+<p class="alignright">2014 - 2017</p>
+**University of Colorado Boulder**  M.S., Computer Science
+
 <p class="alignright">2010 - 2014</p>
 **Santa Clara University**  B.S., Computer Science and Engineering
 
