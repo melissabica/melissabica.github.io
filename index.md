@@ -6,7 +6,7 @@ layout: default
 <img src="/assets/headshot.jpg" alt="headshot" style="width: 208px; margin-left: 20px;" align="right"/>
 
 
-I am a Ph.D. candidate in Computer Science at [University of Colorado Boulder](http://colorado.edu). I am part of [Project EPIC](http://epic.cs.colorado.edu/) (Empowering the Public with Information in Crisis) working with Professor [Leysia Palen](http://cmci.colorado.edu/~palen/). My research focuses on how people interpret and interact around online hurricane forecast images to understand their risk. 
+I am a Ph.D. candidate in Computer Science at [University of Colorado Boulder](http://colorado.edu), where I also received a M.S. in Computer Science. I am part of [Project EPIC](http://epic.cs.colorado.edu/) (Empowering the Public with Information in Crisis) working with Professor [Leysia Palen](http://cmci.colorado.edu/~palen/). My research focuses on the diffusion of forecast and other risk visuals on social media during hurricanes and how people make sense of representations of risk and uncertainty.
 
 Research areas: human-centered computing, crisis informatics, social computing, computer-supported cooperative work
 
