@@ -16,7 +16,7 @@ permalink: /cv/
 **University of Colorado Boulder**  Ph.D. Candidate, Computer Science
 
 * Advisor: Leysia Palen
-* NSF Graduate Research Fellowship
+* NSF Graduate Research Fellow
 * Research interests: human-centered computing, social computing, crisis informatics
 
 <p class="alignright">2014 - 2017</p>
@@ -46,23 +46,15 @@ permalink: /cv/
 
 ## Posters & Workshop Papers
 
+<p class="hangingindent">Melissa Bica. (2018). <a href="https://drive.google.com/file/d/1B1R0Qq0GGhkKwS0_EwpiXRICuYpeaIlR/view" target="_blank" class="papertitle">Sensemaking Around Visual Hurricane Risk Messaging</a>. Workshop on Sensemaking in a Senseless World at the ACM Conference on Human Factors in Computing Systems (CHI ‘18). [Workshop Paper]</p>
+
 <p class="hangingindent">Melissa Bica and Jennings Anderson. (2016). <a href="https://ethicalencountershci.files.wordpress.com/2016/03/bica-and-anderson.pdf" target="_blank" class="papertitle">“You Are What You Tweet!” The Ethics of (Re) Publishing Public Data as Crafted Narratives</a>. Workshop on Ethical Encounters in HCI Research at the ACM Conference on Human Factors in Computing Systems (CHI ‘16). [Workshop Paper]</p>
 
 <p class="hangingindent">Melissa Bica and Kyoung-Sook Kim. (2015). <a href="http://sc15.supercomputing.org/sites/all/themes/SC15images/tech_poster/tech_poster_pages/post148.html" target="_blank" class="papertitle"> RendezView: An Interactive Visual Mining Tool for Discerning Flock Relationships in Social Media Data</a>. International Conference for High Performance Computing, Networking, Storage and Analysis (SC ‘15). [Poster]</p>
 
 
 
-## Teaching Experience
-**University of Colorado Boulder**
-
-<p class="alignright">Oct. 2015</p>
-Guest Lecturer for CSCI4830: HCC Big Data Computing  
-<p class="alignright">Aug. 2014 – May 2015</p>  
-Teaching Assistant for CSCI1300: Introduction to Programming
-
-
-
-## Other Experience
+## Professional & Research Experience
 <p class="alignright">Summer 2017</p>
 <p class="nospace"><span class="bold">Microsoft Research</span>, Redmond, WA, USA </p>
 Research Intern, Business AI Design & Ethics group
@@ -86,6 +78,16 @@ Interim Engineering Intern
 
 * Developed automated Android system and graphics performance benchmark tests in Perl and Java.
 * Improved efficiency by reducing time needed to perform tests and analyze results.
+
+
+
+## Teaching Experience
+**University of Colorado Boulder**
+
+<p class="alignright">Oct. 2015</p>
+Guest Lecturer for CSCI4830: HCC Big Data Computing  
+<p class="alignright">Aug. 2014 – May 2015</p>  
+Teaching Assistant for CSCI1300: Introduction to Programming
 
 
 
@@ -146,7 +148,7 @@ Richard Tapia Celebration of Diversity in Computing Scholarship
 
 **Student Volunteer**
 
-* CHI 2017, CHI 2016, SC 2015
+* CHI 2016-2018, SC 2015
 
 
 
