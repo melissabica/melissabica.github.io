@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 
 <div><a href="/assets/files/MelissaBicaCV.pdf" target="_blank" style="display:inline;">Melissa Bica's CV - PDF</a>
-<p style="font-size: 0.8em;display:inline;">(Updated March 2018)</p>
+<p style="font-size: 0.8em;display:inline;">(Updated May 2018)</p>
 </div>
 <br>
 
