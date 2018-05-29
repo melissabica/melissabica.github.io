@@ -8,6 +8,8 @@ layout: default
 
 I am a Ph.D. candidate in Computer Science at [University of Colorado Boulder](http://colorado.edu), where I also received a M.S. in Computer Science. I am part of [Project EPIC](http://epic.cs.colorado.edu/) (Empowering the Public with Information in Crisis) working with Professor [Leysia Palen](http://cmci.colorado.edu/~palen/), and I am a graduate student research affiliate with the [Natural Hazards Center](https://hazards.colorado.edu/). My research focuses on the diffusion of forecast and other risk visuals on social media during hurricanes and how people make sense of representations of risk and uncertainty.
 
+Currently, I am interning with the User Experience Research team for Yahoo Communications products at Oath in Sunnyvale, CA.
+
 Research areas: human-centered computing, crisis informatics, social computing, computer-supported cooperative work
 
 Previously, I graduated with a B.S. in Computer Science and Engineering from [Santa Clara University](http://scu.edu). My interest in human-centered computing comes from several of my experiences throughout college, including training rural women in IT skills in India, developing a mobile app for local homeless people in the Bay Area, and leading a group of high school girls as they learned programming and mobile development.  

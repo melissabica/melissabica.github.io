@@ -57,6 +57,10 @@ permalink: /cv/
 
 
 ## Professional & Research Experience
+<p class="alignright">Summer 2018 (present)</p>
+<p class="nospace"><span class="bold">Oath Inc.</span>, Sunnyvale, CA, USA </p>
+User Experience Research Intern, Yahoo Mail
+
 <p class="alignright">Summer 2017</p>
 <p class="nospace"><span class="bold">Microsoft Research</span>, Redmond, WA, USA </p>
 Research Intern, Business AI Design & Ethics group
