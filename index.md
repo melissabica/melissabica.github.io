@@ -18,6 +18,8 @@ Previously, I graduated with a B.S. in Computer Science and Engineering from [Sa
 
 
 ### News
+* I am interning at Yahoo with the User Experience Research team this summer!
+
 * I successfully defended my dissertation proposal and am now a Ph.D. candidate! Thanks to my committee: Leysia Palen, Clayton Lewis, Brian Keegan, Ken Anderson, and Julie Demuth.
 
 * My paper [Visual Representations of Disaster](http://dl.acm.org/authorize?N21352), cowritten with Leysia Palen and Chris Bopp, was accepted to [CSCW 2017](https://cscw.acm.org/2017/).
