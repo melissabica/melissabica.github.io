@@ -11,7 +11,8 @@ permalink: /cv/
 
 
 
-## Education  
+<h2><a id="education" class="anchor" aria-hidden="true" href="#education"><img src="\assets\link.png" style="width:15px"></a>Education</h2>
+
 <p class="alignright">2014 - present</p>
 **University of Colorado Boulder**  Ph.D. Candidate, Computer Science
 
@@ -32,7 +33,8 @@ permalink: /cv/
 
 
 
-## Publications
+<h2><a id="publications" class="anchor" aria-hidden="true" href="#publications"><img src="\assets\link.png" style="width:15px"></a>Publications</h2>
+
 
 <p class="hangingindent">Julie L. Demuth, Rebecca E. Morss, Leysia Palen, Kenneth M. Anderson, Jennings Anderson, Marina Kogan, Kevin Stowe, Melissa Bica, Heather Lazrus, Olga Wilhelmi, and Jen Henderson. (2018). <span class="bolder">"Sometimes da #beachlife ain't always da wave": Understanding People’s Evolving Hurricane Risk Communication, Risk Assessments, and Responses Using Twitter Narratives.</span> <span class="proceedings">Weather, Climate, and Society, 10(3), 537-560.</span> (<a href="/assets/files/wcas-d-17-0126.1.pdf" target="_blank" class="bolder">PDF</a>, <a href="https://doi.org/10.1175/WCAS-D-17-0126.1" target="_blank" class="bolder">DOI</a>)</p>
 
@@ -46,7 +48,7 @@ permalink: /cv/
 
 
 
-## Posters & Workshop Papers
+<h2><a id="posters-workshop-papers" class="anchor" aria-hidden="true" href="#posters-workshop-papers"><img src="\assets\link.png" style="width:15px"></a>Posters & Workshop Papers</h2>
 
 <p class="hangingindent">Melissa Bica. (2018). <a href="https://drive.google.com/file/d/1B1R0Qq0GGhkKwS0_EwpiXRICuYpeaIlR/view" target="_blank" class="papertitle">Sensemaking Around Visual Hurricane Risk Messaging</a>. Workshop on Sensemaking in a Senseless World at the ACM Conference on Human Factors in Computing Systems (CHI ‘18). [Workshop Paper]</p>
 
@@ -58,7 +60,7 @@ permalink: /cv/
 
 
 
-## Professional & Research Experience
+<h2><a id="professional-research-experience" class="anchor" aria-hidden="true" href="#professional-research-experience"><img src="\assets\link.png" style="width:15px"></a>Professional & Research Experience</h2>
 <p class="alignright">Summer 2018</p>
 <p class="nospace"><span class="bold">Oath Inc.</span>, Sunnyvale, CA, USA </p>
 User Experience Research Intern, Yahoo Mail
@@ -89,7 +91,7 @@ Interim Engineering Intern
 
 
 
-## Teaching Experience
+<h2><a id="teaching-experience" class="anchor" aria-hidden="true" href="#teaching-experience"><img src="\assets\link.png" style="width:15px"></a>Teaching Experience</h2>
 **University of Colorado Boulder**
 
 <p class="alignright">Oct. 2015</p>
@@ -103,19 +105,19 @@ Teaching Assistant for CSCI 1300: Introduction to Programming
 Guest Lecturer for COEN 100: Undergraduate Research Seminar
 
 
-## Skills
+
+<h2><a id="skills" class="anchor" aria-hidden="true" href="#skills"><img src="\assets\link.png" style="width:15px"></a>Skills</h2>
 **Programming Languages & Tools**  
 
 * Python, HTML/CSS/JS, R, MATLAB, MongoDB, Jupyter Notebook, Tableau, QGIS
 
 **Methods**  
 
-* Think-alouds, cognitive walkthroughs, personas/user stories, interviews, ethnographic observation, visual
-   content analysis
+* Quantitative/qualitative data analysis, visual content analysis, surveys, interviews, ethnographic observation, think-alouds, cognitive walkthroughs, personas/user stories
 
 
 
-## Awards
+<h2><a id="awards" class="anchor" aria-hidden="true" href="#awards"><img src="\assets\link.png" style="width:15px"></a>Awards</h2>
 <p class="alignright">June 2016</p>
 National Science Foundation Graduate Research Fellowship
 <p class="alignright">Apr. 2015</p>
@@ -147,8 +149,7 @@ Richard Tapia Celebration of Diversity in Computing Scholarship
 
 
 
-## Service
-
+<h2><a id="service" class="anchor" aria-hidden="true" href="#service"><img src="\assets\link.png" style="width:15px"></a>Service</h2>
 **Reviewer**  
 
 * 2018: CHI; International Journal of Disaster Risk Reduction; Transactions on Information Systems
@@ -164,6 +165,6 @@ Richard Tapia Celebration of Diversity in Computing Scholarship
 
 
 
-## Professional Membership
+<h2><a id="professional-membership" class="anchor" aria-hidden="true" href="#professional-membership"><img src="\assets\link.png" style="width:15px"></a>Professional Membership</h2>
 ACM, ACM-W, ACM Special Interest Group Computer-Human Interaction (SIGCHI), Colorado Virtual Operations Support Team (COVOST)
 

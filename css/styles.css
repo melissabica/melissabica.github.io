@@ -58,3 +58,17 @@ a.social-media:hover {
 .bold{
     font-weight:bold;
 }
+
+h2 {
+    position:relative;
+}
+
+.anchor{
+    position: absolute;
+    bottom: 0.3rem;
+    left: -1.3rem;
+}
+
+.anchor:hover{
+    text-decoration: none;
+}
