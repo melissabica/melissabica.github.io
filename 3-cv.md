@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 
 <div><a href="/assets/files/MelissaBicaCV.pdf" target="_blank" style="display:inline;">Melissa Bica's CV - PDF</a>
-<p style="font-size: 0.8em;display:inline;">(Updated May 2018)</p>
+<p style="font-size: 0.8em;display:inline;">(Updated Sep. 2018)</p>
 </div>
 <br>
 
@@ -59,7 +59,7 @@ permalink: /cv/
 
 
 ## Professional & Research Experience
-<p class="alignright">Summer 2018 (present)</p>
+<p class="alignright">Summer 2018</p>
 <p class="nospace"><span class="bold">Oath Inc.</span>, Sunnyvale, CA, USA </p>
 User Experience Research Intern, Yahoo Mail
 
@@ -151,7 +151,7 @@ Richard Tapia Celebration of Diversity in Computing Scholarship
 
 **Reviewer**  
 
-* 2018: CHI
+* 2018: CHI; International Journal of Disaster Risk Reduction; Transactions on Information Systems
 * 2017: ISCRAM; CSCW; CHI; Weather, Climate and Society
 
 **Mentor**
