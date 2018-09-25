@@ -34,9 +34,9 @@ permalink: /cv/
 
 ## Publications
 
-<p class="hangingindent">Julie L. Demuth, Rebecca E. Morss, Leysia Palen, Kenneth M. Anderson, Jennings Anderson, Marina Kogan, Kevin Stowe, Melissa Bica, Heather Lazrus, Olga Wilhelmi, and Jen Henderson. (2018). <span class="bolder">"Sometimes da #beachlife ain't always da wave": Understanding People’s Evolving Hurricane Risk Communication, Risk Assessments, and Responses Using Twitter Narratives.</span> <span class="proceedings">Weather, Climate, and Society, 10(3), 537-560.</span> (<a href="https://doi.org/10.1175/WCAS-D-17-0126.1" target="_blank" class="bolder">DOI</a>)</p>
+<p class="hangingindent">Julie L. Demuth, Rebecca E. Morss, Leysia Palen, Kenneth M. Anderson, Jennings Anderson, Marina Kogan, Kevin Stowe, Melissa Bica, Heather Lazrus, Olga Wilhelmi, and Jen Henderson. (2018). <span class="bolder">"Sometimes da #beachlife ain't always da wave": Understanding People’s Evolving Hurricane Risk Communication, Risk Assessments, and Responses Using Twitter Narratives.</span> <span class="proceedings">Weather, Climate, and Society, 10(3), 537-560.</span> (<a href="/assets/files/wcas-d-17-0126.1.pdf" target="_blank" class="bolder">PDF</a>, <a href="https://doi.org/10.1175/WCAS-D-17-0126.1" target="_blank" class="bolder">DOI</a>)</p>
 
-<p class="hangingindent">Rebecca E. Morss, Julie L. Demuth, Heather Lazrus, Leysia Palen, C. Michael Barton, Christopher A. Davis, Chris Snyder, Olga V. Wilhelmi, Kenneth M. Anderson, David A. Ahijevych, Jennings Anderson, Melissa Bica, Kathryn R. Fossell, Jennifer Henderson, Marina Kogan, Kevin Stowe, and Joshua Watts. (2017). <span class="bolder">Hazardous Weather Prediction and Communication in the Modern Information Environment.</span> <span class="proceedings">Bulletin of the American Meteorological Society, 98(12).</span> (<a href="http://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-16-0058.1" target="_blank" class="bolder">DOI</a>)</p>
+<p class="hangingindent">Rebecca E. Morss, Julie L. Demuth, Heather Lazrus, Leysia Palen, C. Michael Barton, Christopher A. Davis, Chris Snyder, Olga V. Wilhelmi, Kenneth M. Anderson, David A. Ahijevych, Jennings Anderson, Melissa Bica, Kathryn R. Fossell, Jennifer Henderson, Marina Kogan, Kevin Stowe, and Joshua Watts. (2017). <span class="bolder">Hazardous Weather Prediction and Communication in the Modern Information Environment.</span> <span class="proceedings">Bulletin of the American Meteorological Society, 98(12).</span> (<a href="/assets/files/bams-d-16-0058.1.pdf" target="_blank" class="bolder">PDF</a>, <a href="http://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-16-0058.1" target="_blank" class="bolder">DOI</a>)</p>
 
 <p class="hangingindent">Melissa Bica, Leysia Palen, and Chris Bopp. (2017).  <span class="bolder">Visual Representations of Disaster</span>. <span class="proceedings">Proceedings of the 20th ACM Conference on Computer Supported Cooperative Work and Social Computing </span>(CSCW ‘17). (<a href="http://dl.acm.org/authorize?N21352" target="_blank" class="bolder">PDF</a>, <a href="https://dl.acm.org/citation.cfm?id=2998212" target="_blank" class="bolder">DOI</a>)</p>
 
@@ -160,7 +160,7 @@ Richard Tapia Celebration of Diversity in Computing Scholarship
 
 **Student Volunteer**
 
-* CHI 2016-2018, SC 2015
+* CHI 2016--2018, SC 2015
 
 
 
