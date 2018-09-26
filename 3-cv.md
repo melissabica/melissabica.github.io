@@ -60,6 +60,18 @@ permalink: /cv/
 
 
 
+
+<h2><a id="press-coverage" class="anchor" aria-hidden="true" href="#press-coverage"><img src="\assets\link.png" style="width:15px"></a>Press Coverage</h2>
+
+<a href="https://kdvr.com/2018/09/11/twitter-could-be-confusing-people-who-need-crucial-hurricane-information/" target="_blank" class="papertitle">“Twitter could be confusing people who need crucial hurricane information.”</a> Ashley Michels. KDVR FOX31 Denver. September 11, 2018.
+
+<a href="http://thesantaclara.org/graduate-makes-waves-in-data-mining/" target="_blank">“Graduate Makes Waves in Data Mining.”</a> Jenni Sigl. The Santa Clara. January 7, 2016. 
+
+<a href="https://sciencenode.org/feature/mining-social-media-to-manage-crises.php" target="_blank">“Mining social media to manage crises.”</a> Sam Stalion. Science Node. December 2, 2015. 
+
+
+
+
 <h2><a id="professional-research-experience" class="anchor" aria-hidden="true" href="#professional-research-experience"><img src="\assets\link.png" style="width:15px"></a>Professional & Research Experience</h2>
 <p class="alignright">Summer 2018</p>
 <p class="nospace"><span class="bold">Oath Inc.</span>, Sunnyvale, CA, USA </p>
