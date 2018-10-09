@@ -35,7 +35,6 @@ permalink: /cv/
 
 <h2><a id="publications" class="anchor" aria-hidden="true" href="#publications"><img src="\assets\link.png" style="width:15px"></a>Publications</h2>
 
-
 <p class="hangingindent">Julie L. Demuth, Rebecca E. Morss, Leysia Palen, Kenneth M. Anderson, Jennings Anderson, Marina Kogan, Kevin Stowe, Melissa Bica, Heather Lazrus, Olga Wilhelmi, and Jen Henderson. (2018). <span class="bolder">"Sometimes da #beachlife ain't always da wave": Understanding People’s Evolving Hurricane Risk Communication, Risk Assessments, and Responses Using Twitter Narratives.</span> <span class="proceedings">Weather, Climate, and Society, 10(3), 537-560.</span> (<a href="/assets/files/wcas-d-17-0126.1.pdf" target="_blank" class="bolder">PDF</a>, <a href="https://doi.org/10.1175/WCAS-D-17-0126.1" target="_blank" class="bolder">DOI</a>)</p>
 
 <p class="hangingindent">Rebecca E. Morss, Julie L. Demuth, Heather Lazrus, Leysia Palen, C. Michael Barton, Christopher A. Davis, Chris Snyder, Olga V. Wilhelmi, Kenneth M. Anderson, David A. Ahijevych, Jennings Anderson, Melissa Bica, Kathryn R. Fossell, Jennifer Henderson, Marina Kogan, Kevin Stowe, and Joshua Watts. (2017). <span class="bolder">Hazardous Weather Prediction and Communication in the Modern Information Environment.</span> <span class="proceedings">Bulletin of the American Meteorological Society, 98(12).</span> (<a href="/assets/files/bams-d-16-0058.1.pdf" target="_blank" class="bolder">PDF</a>, <a href="http://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-16-0058.1" target="_blank" class="bolder">DOI</a>)</p>
@@ -50,20 +49,20 @@ permalink: /cv/
 
 <h2><a id="posters-workshop-papers" class="anchor" aria-hidden="true" href="#posters-workshop-papers"><img src="\assets\link.png" style="width:15px"></a>Posters & Workshop Papers</h2>
 
-<p class="hangingindent">Melissa Bica. (2018). <a href="https://drive.google.com/file/d/1B1R0Qq0GGhkKwS0_EwpiXRICuYpeaIlR/view" target="_blank" class="papertitle">Sensemaking Around Visual Hurricane Risk Messaging</a>. Workshop on Sensemaking in a Senseless World at the ACM Conference on Human Factors in Computing Systems (CHI ‘18). [Workshop Paper]</p>
+<p class="hangingindent">Melissa Bica. (2018). <a href="https://drive.google.com/file/d/1B1R0Qq0GGhkKwS0_EwpiXRICuYpeaIlR/view" target="_blank">Sensemaking Around Visual Hurricane Risk Messaging</a>. Workshop on Sensemaking in a Senseless World at the ACM Conference on Human Factors in Computing Systems (CHI ‘18). [Workshop Paper]</p>
 
 <p class="hangingindent">Melissa Bica. (2017). Visual Representations of Disaster: Analysis of Disaster-Related Online Imagery. CRA-W Grad Cohort Workshop. [Poster] </p>
 
-<p class="hangingindent">Melissa Bica and Jennings Anderson. (2016). <a href="https://ethicalencountershci.files.wordpress.com/2016/03/bica-and-anderson.pdf" target="_blank" class="papertitle">“You Are What You Tweet!” The Ethics of (Re) Publishing Public Data as Crafted Narratives</a>. Workshop on Ethical Encounters in HCI Research at the ACM Conference on Human Factors in Computing Systems (CHI ‘16). [Workshop Paper]</p>
+<p class="hangingindent">Melissa Bica and Jennings Anderson. (2016). <a href="https://ethicalencountershci.files.wordpress.com/2016/03/bica-and-anderson.pdf" target="_blank">“You Are What You Tweet!” The Ethics of (Re) Publishing Public Data as Crafted Narratives</a>. Workshop on Ethical Encounters in HCI Research at the ACM Conference on Human Factors in Computing Systems (CHI ‘16). [Workshop Paper]</p>
 
-<p class="hangingindent">Melissa Bica and Kyoung-Sook Kim. (2015). <a href="http://sc15.supercomputing.org/sites/all/themes/SC15images/tech_poster/tech_poster_pages/post148.html" target="_blank" class="papertitle"> RendezView: An Interactive Visual Mining Tool for Discerning Flock Relationships in Social Media Data</a>. International Conference for High Performance Computing, Networking, Storage and Analysis (SC ‘15). [Poster + Extended Abstract]</p>
+<p class="hangingindent">Melissa Bica and Kyoung-Sook Kim. (2015). <a href="http://sc15.supercomputing.org/sites/all/themes/SC15images/tech_poster/tech_poster_pages/post148.html" target="_blank"> RendezView: An Interactive Visual Mining Tool for Discerning Flock Relationships in Social Media Data</a>. International Conference for High Performance Computing, Networking, Storage and Analysis (SC ‘15). [Poster + Extended Abstract]</p>
 
 
 
 
 <h2><a id="press-coverage" class="anchor" aria-hidden="true" href="#press-coverage"><img src="\assets\link.png" style="width:15px"></a>Press Coverage</h2>
 
-<a href="https://kdvr.com/2018/09/11/twitter-could-be-confusing-people-who-need-crucial-hurricane-information/" target="_blank" class="papertitle">“Twitter could be confusing people who need crucial hurricane information.”</a> Ashley Michels. KDVR FOX31 Denver. September 11, 2018.
+<a href="https://kdvr.com/2018/09/11/twitter-could-be-confusing-people-who-need-crucial-hurricane-information/" target="_blank">“Twitter could be confusing people who need crucial hurricane information.”</a> Ashley Michels. KDVR FOX31 Denver. September 11, 2018.
 
 <a href="http://thesantaclara.org/graduate-makes-waves-in-data-mining/" target="_blank">“Graduate Makes Waves in Data Mining.”</a> Jenni Sigl. The Santa Clara. January 7, 2016. 
 
@@ -162,18 +161,25 @@ Richard Tapia Celebration of Diversity in Computing Scholarship
 
 
 <h2><a id="service" class="anchor" aria-hidden="true" href="#service"><img src="\assets\link.png" style="width:15px"></a>Service</h2>
-**Reviewer**  
+**Peer-Reviewing**  
 
-* 2018: CHI; International Journal of Disaster Risk Reduction; Transactions on Information Systems
-* 2017: ISCRAM; CSCW; CHI; Weather, Climate and Society
+* ACM Conference on Human Factors in Computing Systems (CHI)
+* ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW)
+* International Journal of Disaster Risk Reduction
+* ACM Transactions on Information Systems
+* Information Systems for Crisis Response and Management
+* Weather, Climate and Society
 
-**Mentor**
 
-* 2016: Discovery Learning Apprenticeship, mentored 8 undergraduate researchers
+**Mentoring**
 
-**Student Volunteer**
+* Mentored 8 undergraduate researchers for the Discovery Learning Apprenticeship (Spring 2016)
 
-* CHI 2016--2018, SC 2015
+
+**Student Volunteering**
+
+* CHI 2016--2018
+* International Conference for High Performance Computing, Networking, Storage, and Analysis (SC15)
 
 
 
