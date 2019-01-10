@@ -33,17 +33,28 @@ permalink: /cv/
 
 
 
+
 <h2><a id="publications" class="anchor" aria-hidden="true" href="#publications"><img src="\assets\link.png" style="width:15px"></a>Publications</h2>
 
-<p class="hangingindent">Julie L. Demuth, Rebecca E. Morss, Leysia Palen, Kenneth M. Anderson, Jennings Anderson, Marina Kogan, Kevin Stowe, Melissa Bica, Heather Lazrus, Olga Wilhelmi, and Jen Henderson. (2018). <span class="bolder">"Sometimes da #beachlife ain't always da wave": Understanding People’s Evolving Hurricane Risk Communication, Risk Assessments, and Responses Using Twitter Narratives.</span> <span class="proceedings">Weather, Climate, and Society, 10(3), 537-560.</span> (<a href="/assets/files/wcas-d-17-0126.1.pdf" target="_blank" class="bolder">PDF</a>, <a href="https://doi.org/10.1175/WCAS-D-17-0126.1" target="_blank" class="bolder">DOI</a>)</p>
+<h3><a id="publications-conf" class="anchor" aria-hidden="true" href="#publications-conf"><img src="\assets\link.png" style="width:15px"></a>Peer-Reviewed Conference Publications</h3>
 
-<p class="hangingindent">Rebecca E. Morss, Julie L. Demuth, Heather Lazrus, Leysia Palen, C. Michael Barton, Christopher A. Davis, Chris Snyder, Olga V. Wilhelmi, Kenneth M. Anderson, David A. Ahijevych, Jennings Anderson, Melissa Bica, Kathryn R. Fossell, Jennifer Henderson, Marina Kogan, Kevin Stowe, and Joshua Watts. (2017). <span class="bolder">Hazardous Weather Prediction and Communication in the Modern Information Environment.</span> <span class="proceedings">Bulletin of the American Meteorological Society, 98(12).</span> (<a href="/assets/files/bams-d-16-0058.1.pdf" target="_blank" class="bolder">PDF</a>, <a href="http://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-16-0058.1" target="_blank" class="bolder">DOI</a>)</p>
+<p class="hangingindent">Melissa Bica, Julie L. Demuth, James E. Dykes, and Leysia Palen. (In press). <span class="bolder">Communicating Hurricane Risks: Multi-Method Examination of Risk Imagery Diffusion.</span> To appear in <span class="proceedings">Proceedings of the CHI Conference on Human Factors in Computing Systems</span> (CHI '19).</p>
+
+<p class="hangingindent">Frank Bentley, Katie Quehl, Jordan Wirfs-Brock, and Melissa Bica. (In press). <span class="bolder">Understanding Online News Behaviors.</span> To appear in <span class="proceedings">Proceedings of the CHI Conference on Human Factors in Computing Systems Proceedings</span> (CHI '19).</p>
 
 <p class="hangingindent">Melissa Bica, Leysia Palen, and Chris Bopp. (2017).  <span class="bolder">Visual Representations of Disaster</span>. <span class="proceedings">Proceedings of the 20th ACM Conference on Computer Supported Cooperative Work and Social Computing </span>(CSCW ‘17). (<a href="http://dl.acm.org/authorize?N21352" target="_blank" class="bolder">PDF</a>, <a href="https://dl.acm.org/citation.cfm?id=2998212" target="_blank" class="bolder">DOI</a>)</p>
 
 <p class="hangingindent">Jennings Anderson, Marina Kogan, Melissa Bica, Leysia Palen, Kenneth M. Anderson, Kevin Stowe, Rebecca Morss, Julie Demuth, Heather Lazrus, Olga Wilhelmi, and Jen Henderson. (2016). <span class="bolder"> Far Far Away in Far Rockaway: Responses to Risks and Impacts during Hurricane Sandy through First-Person Social Media Narratives</span>. <span class="proceedings">Proceedings of the 13th International Conference on Information Systems for Crisis Response and Management </span>(ISCRAM ‘16). (<a href="http://idl.iscram.org/files/jenningsanderson/2016/1388_JenningsAnderson_etal2016.pdf" target="_blank" class="bolder">PDF</a>)</p>
 
 <p class="hangingindent">Kyoung-Sook Kim, Melissa Bica, Isao Kojima, and Hirotaka Ogawa. (2015). <span class="bolder">RendezView: Look at Meanings of an Encounter Region over Local Social Flocks</span>. <span class="proceedings">Proceedings of the 6th ACM SIGSPATIAL International Workshop on GeoStreaming.</span> (<a href="http://dl.acm.org/authorize?N12889" target="_blank" class="bolder">PDF</a>, <a href="https://dl.acm.org/citation.cfm?id=2833178" target="_blank" class="bolder">DOI</a>)</p>
+
+
+<h3><a id="publications-journal" class="anchor" aria-hidden="true" href="#publications-journal"><img src="\assets\link.png" style="width:15px"></a>Journal Articles</h3>
+
+<p class="hangingindent">Julie L. Demuth, Rebecca E. Morss, Leysia Palen, Kenneth M. Anderson, Jennings Anderson, Marina Kogan, Kevin Stowe, Melissa Bica, Heather Lazrus, Olga Wilhelmi, and Jen Henderson. (2018). <span class="bolder">"Sometimes da #beachlife ain't always da wave": Understanding People’s Evolving Hurricane Risk Communication, Risk Assessments, and Responses Using Twitter Narratives.</span> <span class="proceedings">Weather, Climate, and Society, 10(3), 537-560.</span> (<a href="/assets/files/wcas-d-17-0126.1.pdf" target="_blank" class="bolder">PDF</a>, <a href="https://doi.org/10.1175/WCAS-D-17-0126.1" target="_blank" class="bolder">DOI</a>)</p>
+
+<p class="hangingindent">Rebecca E. Morss, Julie L. Demuth, Heather Lazrus, Leysia Palen, C. Michael Barton, Christopher A. Davis, Chris Snyder, Olga V. Wilhelmi, Kenneth M. Anderson, David A. Ahijevych, Jennings Anderson, Melissa Bica, Kathryn R. Fossell, Jennifer Henderson, Marina Kogan, Kevin Stowe, and Joshua Watts. (2017). <span class="bolder">Hazardous Weather Prediction and Communication in the Modern Information Environment.</span> <span class="proceedings">Bulletin of the American Meteorological Society, 98(12).</span> (<a href="/assets/files/bams-d-16-0058.1.pdf" target="_blank" class="bolder">PDF</a>, <a href="http://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-16-0058.1" target="_blank" class="bolder">DOI</a>)</p>
+
 
 
 
@@ -56,6 +67,13 @@ permalink: /cv/
 <p class="hangingindent">Melissa Bica and Jennings Anderson. (2016). <a href="https://ethicalencountershci.files.wordpress.com/2016/03/bica-and-anderson.pdf" target="_blank">“You Are What You Tweet!” The Ethics of (Re) Publishing Public Data as Crafted Narratives</a>. Workshop on Ethical Encounters in HCI Research at the ACM Conference on Human Factors in Computing Systems (CHI ‘16). [Workshop Paper]</p>
 
 <p class="hangingindent">Melissa Bica and Kyoung-Sook Kim. (2015). <a href="http://sc15.supercomputing.org/sites/all/themes/SC15images/tech_poster/tech_poster_pages/post148.html" target="_blank"> RendezView: An Interactive Visual Mining Tool for Discerning Flock Relationships in Social Media Data</a>. International Conference for High Performance Computing, Networking, Storage and Analysis (SC ‘15). [Poster + Extended Abstract]</p>
+
+
+
+
+<h2><a id="presentations" class="anchor" aria-hidden="true" href="#presentations"><img src="\assets\link.png" style="width:15px"></a>Conference Presentations</h2>
+
+Presenter and panelist, <a href="https://annual.ametsoc.org/index.cfm/2019/programs/conferences-and-symposia/14th-symposium-on-societal-applications-policy-research-and-practice/the-other-uncertainty/" target="_blank">"The Other Uncertainty: Social, Political, and Cultural Forms of Uncertainty in Weather Contexts."</a> American Meteorological Society 99th Annual Meeting, Phoenix, AZ. January 7, 2019.
 
 
 
@@ -102,6 +120,7 @@ Interim Engineering Intern
 
 
 
+
 <h2><a id="teaching-experience" class="anchor" aria-hidden="true" href="#teaching-experience"><img src="\assets\link.png" style="width:15px"></a>Teaching Experience</h2>
 **University of Colorado Boulder**
 
@@ -114,6 +133,7 @@ Teaching Assistant for CSCI 1300: Introduction to Programming
 
 <p class="alignright">May 23, 2018</p>
 Guest Lecturer for COEN 100: Undergraduate Research Seminar
+
 
 
 
