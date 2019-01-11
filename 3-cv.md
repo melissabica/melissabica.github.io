@@ -13,12 +13,12 @@ permalink: /cv/
 
 <h2><a id="education" class="anchor" aria-hidden="true" href="#education"><img src="\assets\link.png" style="width:15px"></a>Education</h2>
 
-<p class="alignright">2014 - present</p>
+<p class="alignright">expected 2019</p>
 **University of Colorado Boulder**  Ph.D. Candidate, Computer Science
 
-* Advisor: Leysia Palen
+* Committee: Leysia Palen (advisor, chair), Clayton Lewis, Brian C. Keegan, Kenneth M. Anderson, Julie L. Demuth
 * NSF Graduate Research Fellow
-* Research interests: human-centered computing, social computing, crisis informatics
+* Research interests: human-computer interaction (HCI), crisis informatics, computer supported cooperative work (CSCW), social computing, information science, user experience
 
 <p class="alignright">2014 - 2017</p>
 **University of Colorado Boulder**  M.S., Computer Science
@@ -56,9 +56,7 @@ permalink: /cv/
 <p class="hangingindent">Rebecca E. Morss, Julie L. Demuth, Heather Lazrus, Leysia Palen, C. Michael Barton, Christopher A. Davis, Chris Snyder, Olga V. Wilhelmi, Kenneth M. Anderson, David A. Ahijevych, Jennings Anderson, Melissa Bica, Kathryn R. Fossell, Jennifer Henderson, Marina Kogan, Kevin Stowe, and Joshua Watts. (2017). <span class="bolder">Hazardous Weather Prediction and Communication in the Modern Information Environment.</span> <span class="proceedings">Bulletin of the American Meteorological Society, 98(12).</span> (<a href="/assets/files/bams-d-16-0058.1.pdf" target="_blank" class="bolder">PDF</a>, <a href="http://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-16-0058.1" target="_blank" class="bolder">DOI</a>)</p>
 
 
-
-
-<h2><a id="posters-workshop-papers" class="anchor" aria-hidden="true" href="#posters-workshop-papers"><img src="\assets\link.png" style="width:15px"></a>Posters & Workshop Papers</h2>
+<h3><a id="posters-workshop-papers" class="anchor" aria-hidden="true" href="#posters-workshop-papers"><img src="\assets\link.png" style="width:15px"></a>Non-Archival Workshop Papers & Posters</h3>
 
 <p class="hangingindent">Melissa Bica. (2018). <a href="https://drive.google.com/file/d/1B1R0Qq0GGhkKwS0_EwpiXRICuYpeaIlR/view" target="_blank">Sensemaking Around Visual Hurricane Risk Messaging</a>. Workshop on Sensemaking in a Senseless World at the ACM Conference on Human Factors in Computing Systems (CHI ‘18). [Workshop Paper]</p>
 
@@ -105,7 +103,7 @@ OSDC PIRE Fellow
 * Implemented an interactive data visualization interface in JavaScript, HTML, and CSS, called RendezView, for structuring geo-referenced social media data.
 
 <p class="alignright">Feb. – Dec. 2013</p>
-<p class="nospace"><span class="bold">Santa Clara University Center for Science, Technology, & Society and Anudip</span>, Kolkata, India </p>
+<p class="nospace"><span class="bold">Santa Clara University Center for Science, Technology, & Society and Anudip Foundation</span>, Kolkata, India and Santa Clara, CA, USA</p>
 Global Social Benefit Fellow
 
 * Conducted research for social enterprises Anudip and iMerit as part of this 9 month, academic action research fellowship including seven weeks of field work in Kolkata, India.
@@ -180,14 +178,14 @@ Richard Tapia Celebration of Diversity in Computing Scholarship
 
 
 
-<h2><a id="service" class="anchor" aria-hidden="true" href="#service"><img src="\assets\link.png" style="width:15px"></a>Service</h2>
+<h2><a id="service" class="anchor" aria-hidden="true" href="#service"><img src="\assets\link.png" style="width:15px"></a>Academic Service</h2>
 **Peer-Reviewing**  
 
 * ACM Conference on Human Factors in Computing Systems (CHI)
 * ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW)
 * International Journal of Disaster Risk Reduction
 * ACM Transactions on Information Systems
-* Information Systems for Crisis Response and Management
+* International Conference on Information Systems for Crisis Response and Management (ISCRAM)
 * Weather, Climate and Society
 
 
