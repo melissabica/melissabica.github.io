@@ -5,7 +5,7 @@ author: Melissa Bica
 description: Melissa Bica #> # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://www.melissabica.com" # the base hostname & protocol for your site
 twitter_username: melissajbica
 github_username: melissabica
 linkedin_username: melissabica
