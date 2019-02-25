@@ -71,7 +71,7 @@ permalink: /cv/
 
 <h2><a id="presentations" class="anchor" aria-hidden="true" href="#presentations"><img src="\assets\link.png" style="width:15px"></a>Conference Presentations</h2>
 
-Presenter and panelist, <a href="https://annual.ametsoc.org/index.cfm/2019/programs/conferences-and-symposia/14th-symposium-on-societal-applications-policy-research-and-practice/the-other-uncertainty/" target="_blank">"The Other Uncertainty: Social, Political, and Cultural Forms of Uncertainty in Weather Contexts."</a> American Meteorological Society 99th Annual Meeting, Phoenix, AZ. January 7, 2019. (Panel recording <a href="https://ams.confex.com/ams/2019Annual/videogateway.cgi/id/49988?recordingid=49988" target="_blank" class="bolder">available online</a>; my talk starts at 31:12.)
+Presenter and panelist, <a href="https://annual.ametsoc.org/index.cfm/2019/programs/conferences-and-symposia/14th-symposium-on-societal-applications-policy-research-and-practice/the-other-uncertainty/" target="_blank">"The Other Uncertainty: Social, Political, and Cultural Forms of Uncertainty in Weather Contexts."</a> American Meteorological Society 99th Annual Meeting, Phoenix, AZ. January 7, 2019. (<a href="https://ams.confex.com/ams/2019Annual/videogateway.cgi/id/49988?recordingid=49988" target="_blank" class="bolder">Link to audio-recorded panel</a>; my talk starts at 31:12.)
 
 
 
