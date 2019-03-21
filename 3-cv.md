@@ -38,8 +38,7 @@ permalink: /cv/
 
 <h3><a id="publications-conf" class="anchor" aria-hidden="true" href="#publications-conf"><img src="\assets\link.png" style="width:15px"></a>Archival, Peer-Reviewed Conference Papers</h3>
 
-<p class="hangingindent">Frank Bentley, Max Silverman, and Melissa Bica. (2019). <span class="bolder">Exploring Online Video Watching Behaviors.</span> To appear in <span class="proceedings">Proceedings of the ACM International Conference on Interactive Experiences for Television and Online Video</span> (TVX '19). 
-	<!-- (<a href="/assets/files/CHI2019-FINAL_paper315.pdf" target="_blank" class="bolder">PDF</a>) -->
+<p class="hangingindent">Frank Bentley, Max Silverman, and Melissa Bica. (2019). <span class="bolder">Exploring Online Video Watching Behaviors.</span> To appear in <span class="proceedings">Proceedings of the ACM International Conference on Interactive Experiences for Television and Online Video</span> (TVX '19). (<a href="/assets/files/TVX19a-sub1020-cam-i16.pdf" target="_blank" class="bolder">PDF</a>)
 </p>
 
 
