@@ -38,11 +38,9 @@ permalink: /cv/
 
 <h3><a id="publications-conf" class="anchor" aria-hidden="true" href="#publications-conf"><img src="\assets\link.png" style="width:15px"></a>Archival, Peer-Reviewed Conference Papers</h3>
 
-<p class="hangingindent">Frank Bentley, Max Silverman, and Melissa Bica. (2019). <span class="bolder">Exploring Online Video Watching Behaviors.</span> To appear in <span class="proceedings">Proceedings of the ACM International Conference on Interactive Experiences for Television and Online Video</span> (TVX '19). (<a href="/assets/files/TVX19a-sub1020-cam-i16.pdf" target="_blank" class="bolder">PDF</a>)
-</p>
+<p class="hangingindent">Frank Bentley, Max Silverman, and Melissa Bica. (2019). <span class="bolder">Exploring Online Video Watching Behaviors.</span> To appear in <span class="proceedings">Proceedings of the ACM International Conference on Interactive Experiences for Television and Online Video</span> (TVX '19). (<a href="/assets/files/TVX19a-sub1020-cam-i16.pdf" target="_blank" class="bolder">PDF</a>)</p>
 
-
-<p class="hangingindent">Melissa Bica, Julie L. Demuth, James E. Dykes, and Leysia Palen. (2019). <span class="bolder">Communicating Hurricane Risks: Multi-Method Examination of Risk Imagery Diffusion.</span> To appear in <span class="proceedings">Proceedings of the CHI Conference on Human Factors in Computing Systems</span> (CHI '19). (<a href="/assets/files/CHI2019-FINAL_paper315.pdf" target="_blank" class="bolder">PDF</a>)</p>
+<p class="hangingindent">Melissa Bica, Julie L. Demuth, James E. Dykes, and Leysia Palen. (2019). <span class="bolder">Communicating Hurricane Risks: Multi-Method Examination of Risk Imagery Diffusion.</span> To appear in <span class="proceedings">Proceedings of the CHI Conference on Human Factors in Computing Systems</span> (CHI '19). (<a href="/assets/files/CHI2019-FINAL_paper315.pdf" target="_blank" class="bolder">PDF</a>, <a href="https://dl.acm.org/citation.cfm?id=3300545" target="_blank" class="bolder">DOI</a>)</p>
 
 <p class="hangingindent">Frank Bentley, Katie Quehl, Jordan Wirfs-Brock, and Melissa Bica. (2019). <span class="bolder">Understanding Online News Behaviors.</span> To appear in <span class="proceedings">Proceedings of the CHI Conference on Human Factors in Computing Systems Proceedings</span> (CHI '19). (<a href="/assets/files/CHI2019-UnderstandingOnlineNewsBehaviors.pdf" target="_blank" class="bolder">PDF</a>)</p>
 
