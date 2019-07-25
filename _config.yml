@@ -11,6 +11,14 @@ github_username: melissabica
 linkedin_username: melissabica
 gscholar_username: T4PCkQUAAAAJ
 
+# links to papers
+CHI2019_hurricane: "/assets/files/Bica-CHI2019-CommunicatingHurricaneRisks.pdf"
+CHI2019_news: "/assets/files/CHI2019-UnderstandingOnlineNewsBehaviors.pdf"
+TVX2019_video: "/assets/files/TVX19-OnlineVideo.pdf"
+CSCW2017_visual: "http://dl.acm.org/authorize?N21352"
+ISCRAM2016_farrockaway: "/assets/files/ISCRAM2016_FarRockaway.pdf"
+SC15_rendezview: "http://dl.acm.org/authorize?N12889"
+
 
 # Build settings
 markdown: kramdown
