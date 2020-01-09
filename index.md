@@ -6,19 +6,21 @@ layout: default
 <img src="/assets/headshot.jpg" alt="headshot" style="width: 208px; margin-left: 20px;" align="right"/>
 
 
-I am a Ph.D. candidate in Computer Science at <a target="_blank" href="http://colorado.edu">University of Colorado Boulder</a>, where I also received a M.S. in Computer Science. I am part of <a target="_blank" href="http://epic.cs.colorado.edu/">Project EPIC</a> (Empowering the Public with Information in Crisis) working with Professor <a target="_blank" href="http://cmci.colorado.edu/~palen/">Leysia Palen</a>, and I am a graduate student research affiliate with the <a target="_blank" href="
+I recently received a Ph.D. in Computer Science at the <a target="_blank" href="http://colorado.edu">University of Colorado Boulder</a>. I am part of <a target="_blank" href="http://epic.cs.colorado.edu/">Project EPIC</a> (Empowering the Public with Information in Crisis) working with Professor <a target="_blank" href="http://cmci.colorado.edu/~palen/">Leysia Palen</a>, and I am a graduate student research affiliate with the <a target="_blank" href="
 https://hazards.colorado.edu/">Natural Hazards Center</a>. My research focuses on the diffusion of forecast and other risk visuals on social media during hurricanes and how people make sense of representations of risk and uncertainty.
 
-I recently completed an internship with the User Experience Research team for Yahoo Mail at <a target="_blank" href="https://www.oath.com/">Oath</a> in Sunnyvale, CA.
+In the summer of 2018, I completed an internship with the User Experience Research team at <a target="_blank" href="https://www.oath.com/">Yahoo</a> in Sunnyvale, CA.
 
-Research areas: human-centered computing, crisis informatics, social computing, computer-supported cooperative work
+Previously, I received a M.S. in Computer Science from the University of Colorado Boulder and a B.S. in Computer Science and Engineering from <a target="_blank" href="http://scu.edu">Santa Clara University</a>. My interest in human-centered computing comes from several of my experiences throughout college, including training rural women in IT skills in India, developing a mobile app for local homeless people in the Bay Area, and leading a group of high school girls as they learned programming and mobile development.  
 
-Previously, I graduated with a B.S. in Computer Science and Engineering from <a target="_blank" href="http://scu.edu">Santa Clara University</a>. My interest in human-centered computing comes from several of my experiences throughout college, including training rural women in IT skills in India, developing a mobile app for local homeless people in the Bay Area, and leading a group of high school girls as they learned programming and mobile development.  
+**Research areas:** human-computer interaction (HCI), crisis informatics, computer supported cooperative work (CSCW), social computing, information science, user experience
 
 
 
 
 ### News
+
+* *December 13, 2019:* I successfully defended my dissertation, *The Crisis Informatics of Online Hurricane Risk Communication*!
 
 * *January 7, 2019:* I presented my research on how people construct and manage uncertainty around hurricane risk images on <a href="#AMS2019-panel">"The Other Uncertainty: Social, Political, and Cultural Forms of Uncertainty in Weather Contexts"</a> panel at the 99th Annual Meeting of the American Meteorological Society in Phoenix, AZ. 
 
