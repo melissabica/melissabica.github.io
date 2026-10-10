@@ -22,3 +22,8 @@ SC15_rendezview: "http://dl.acm.org/authorize?N12889"
 
 # Build settings
 markdown: kramdown
+
+# Files used to maintain the site, not published with it
+exclude:
+  - README.md
+  - update-site.sh
