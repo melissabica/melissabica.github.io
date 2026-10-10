@@ -225,7 +225,7 @@ Then watch the deployment finish at
 | Problem | Fix |
 | --- | --- |
 | `git: Bad CPU type in executable` | An old Intel git used to shadow the working one. It has been replaced by the Homebrew ARM git (`/opt/homebrew/bin/git`). In a *new* terminal it should work; run `eval "$(/opt/homebrew/bin/brew shellenv)"` if needed. |
-| `git push` fails with `Permission denied (publickey)` | Your SSH key is not registered on your GitHub account. Add the contents of `~/.ssh/id_rsa.pub` at <https://github.com/settings/keys> (title it e.g. "MacBook"), then push again. |
+| `git push` fails with `Permission denied (publickey)` | Your SSH key is not registered on your GitHub account. Add the contents of `~/.ssh/id_ed25519.pub` at <https://github.com/settings/keys> (title it e.g. "MacBook"), then push again. |
 | Site not updating after a push | Check <https://github.com/melissabica/melissabica.github.io/deployments> for a failed/queued build. The live CDN can cache for up to 10 minutes; hard-refresh. |
 | Local `jekyll` command not found | Jekyll 3.8.7 is installed at `/usr/local/bin/jekyll`. If missing, reinstall with `gem install jekyll -v 3.8.7`. |
 

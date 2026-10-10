@@ -6,7 +6,7 @@ layout: default
 <img src="/assets/headshot.jpg" alt="headshot" style="width: 208px; margin-left: 20px;" align="right"/>
 
 
-I am a User Experience Researcher at Workday. In 2020, I received a Ph.D. in Computer Science at the <a target="_blank" href="http://colorado.edu">University of Colorado Boulder</a>, where I was part of <a target="_blank" href="http://epic.cs.colorado.edu/">Project EPIC</a> (Empowering the Public with Information in Crisis) working with Professor <a target="_blank" href="http://cmci.colorado.edu/~palen/">Leysia Palen</a>, and a graduate student research affiliate with the <a target="_blank" href="
+I am a Senior Researcher at Workday. In 2020, I received a Ph.D. in Computer Science at the <a target="_blank" href="http://colorado.edu">University of Colorado Boulder</a>, where I was part of <a target="_blank" href="http://epic.cs.colorado.edu/">Project EPIC</a> (Empowering the Public with Information in Crisis) working with Professor <a target="_blank" href="http://cmci.colorado.edu/~palen/">Leysia Palen</a>, and a graduate student research affiliate with the <a target="_blank" href="
 https://hazards.colorado.edu/">Natural Hazards Center</a>. My dissertation research focused on the diffusion of forecast and other risk visuals on social media during hurricanes and how people make sense of representations of risk and uncertainty.
 
 Prior to Workday, I was a User Experience Researcher at Yahoo leading research for the Inbox Commerce initiative within Yahoo Mail.
